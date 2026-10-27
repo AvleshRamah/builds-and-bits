@@ -40,7 +40,7 @@
 
       // Typing Animation
       const phrases = [
-        "Software Engineering Student",
+        "Software Engineering Graduate",
         "Full-Stack Developer",
         "Problem Solver",
         "Tech Enthusiast",
